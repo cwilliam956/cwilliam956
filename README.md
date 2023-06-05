@@ -12,7 +12,7 @@ Atualmente estudando PHP, C, HTML, CSS e JAVA☕
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%232C86C6.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/celso-william-da-silva-51a660184/)
 
-<a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:swilliam956@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <div>
 
