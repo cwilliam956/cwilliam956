@@ -33,6 +33,9 @@ Atualmente estudando PHP, C, HTML, CSS e JAVA☕
 <br>
 
 <div style="display: inline_block"><br>
+ 
+ <h2> Aprendendo as Linguágens <br><br>
+  
 
 <img align="center" alt="cwilliam956-C" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" >
 
@@ -46,8 +49,7 @@ Atualmente estudando PHP, C, HTML, CSS e JAVA☕
 
   <img align="center" alt="cwilliam956-JAVA" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
-  <img align="center" alt="cwilliam956-JAVASCRIPT" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-
+ </h2>
 </div><br><br>
 
 ![snake gif](https://github.com/cwilliam956/cwilliam956/blob/output/github-contribution-grid-snake.svg)
