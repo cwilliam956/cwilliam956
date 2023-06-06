@@ -33,17 +33,13 @@ Atualmente estudando PHP, C, HTML, CSS e JAVA☕
 <br>
 
 <div style="display: inline_block"><br>
- 
- <h2> Aprendendo as Linguágens <br><br>
   
 
-<img align="center" alt="cwilliam956-C" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" >
+
 
   <img align="center" alt="cwilliam956-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
   <img align="center" alt="cwilliam956-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-  <img align="center" alt="cwilliam956-PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
    <img align="center" alt="cwilliam956-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 
