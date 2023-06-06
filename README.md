@@ -50,4 +50,4 @@ Atualmente estudando PHP, C, HTML, CSS e JAVA☕
 
 </div><br><br>
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/cwilliam956/cwilliam956/blob/output/github-contribution-grid-snake.svg)
