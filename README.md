@@ -49,3 +49,5 @@ Atualmente estudando PHP, C, HTML, CSS e JAVA☕
   <img align="center" alt="cwilliam956-JAVASCRIPT" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 
 </div><br><br>
+
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
